@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+## Welcome to my GitHub Profile!
 
 - 🔭 I’m currently working on NDD Tech as a Software Developer
 - 🌱 I’m currently learning DevOps
